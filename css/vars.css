@@ -1,0 +1,24 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #a1a1a1;
+  --second-brand-color: #d25d1f;
+  --third-brand-color: #322b26;
+  --fourth-brand-color: #130c06;
+  --fifth-brand-color: #1b1716;
+ 
+
+
+  --main-font:  'Open Sans SemiCondensed';
+  --title-font:  'Open Sans';
+
+  font-size: 62.5%;
+}
