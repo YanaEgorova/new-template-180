@@ -91,7 +91,8 @@ body.open-menu {
 }
 
 .cart__btn {
-    display: none;
+    display: flex;
+    margin-left: 1rem;
     align-items: center;
     width: fit-content;
     padding: 1.5rem 2rem;
