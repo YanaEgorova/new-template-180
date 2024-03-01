@@ -142,7 +142,7 @@
 }
 @media screen and (min-width: 1440px) { 
     .hero-products .products {
-        padding: 30rem 0;
+        /* padding: 30rem 0; */
     }
     .product__img-box {
         width: 23rem;

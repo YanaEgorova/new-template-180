@@ -181,10 +181,10 @@
 
 
     .policy {
-        padding: 15rem 25rem;
+        padding: 10rem 25rem;
     }
     .policy .sub-title {
-        margin-bottom: 15rem;
+        margin-bottom: 8rem;
     }
     .policy__box {
         text-align: right;
@@ -195,11 +195,12 @@
         margin-right: 0;
     }
     .policy__box--mb {
-        margin-bottom: 10rem;
-        text-align: left;
-        margin-left: 0;
+        /* margin-bottom: 10rem; */
+        text-align: center;
+        margin: 0 auto 10rem;
+        /* margin-left: 0; */
     }
     .policy__box--mb .btn {
-        margin-left: 0;
+        margin: 0 auto;
     }
 }
